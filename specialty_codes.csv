@@ -1,0 +1,163 @@
+_id,Specialty,SpecialtyName,Aggregated specialty
+1,A1,General medicine,Medical specialties
+2,A11,Acute medicine,Medical specialties
+3,A2,Cardiology,Medical specialties
+4,A21,Paediatric cardiology,Paediatrics specialties
+5,A3,Clinical genetics,Medical specialties
+6,A4,Tropical medicine,Medical specialties
+7,A5,Clinical pharmacology and therapeutics,Medical specialties
+8,A6,Infectious diseases,Medical specialties
+9,A7,Dermatology,Medical specialties
+10,A8,Endocrinology and diabetes,Medical specialties
+11,A81,Endocrinology,Medical specialties
+12,A82,Diabetes,Medical specialties
+13,A9,Gastroenterology,Medical specialties
+14,AA,Genito - urinary medicine,Medical specialties
+15,AB,Geriatric medicine,Medical specialties
+16,AC,Homeopathy,Medical specialties
+17,AD,Medical oncology,Medical specialties
+18,AF,Paediatrics,Paediatrics specialties
+19,AFA,Community child health,Paediatrics specialties
+20,AG,Renal medicine,Medical specialties
+21,AH,Neurology,Medical specialties
+22,AJ,Integrative care,Medical specialties
+23,AK,Occupational medicine,Occupational medicine
+24,AM,Palliative medicine,Medical specialties
+25,AN,Public health medicine,Public health medicine
+26,AP,Rehabilitation medicine,Medical specialties
+27,AQ,Respiratory medicine,Medical specialties
+28,AR,Rheumatology,Medical specialties
+29,AS,Sport and exercise medicine,Medical specialties
+30,AT,Medical ophthalmology,Medical specialties
+31,AV,Clinical neurophysiology,Medical specialties
+32,AW,Allergy,Medical specialties
+33,C1,General surgery,Surgical specialties
+34,C11,General surgery (excl vascular),Surgical specialties
+35,C12,Vascular surgery,Surgical specialties
+36,C13,Oral and maxillofacial surgery,Surgical specialties
+37,C2,Accident and emergency,Emergency medicine
+38,C3,Anaesthetics,Anaesthetics
+39,C31,Pain management,Anaesthetics
+40,C4,Cardiothoracic surgery,Surgical specialties
+41,C41,Cardiac surgery,Surgical specialties
+42,C42,Thoracic surgery,Surgical specialties
+43,C5,Ear Nose and Throat (ENT),Medical specialties
+44,C51,Audiological medicine,Medical specialties
+45,C6,Neurosurgery,Surgical specialties
+46,C7,Ophthalmology,Surgical specialties
+47,C8,Trauma and orthopaedic surgery,Surgical specialties
+48,C9,Plastic surgery,Surgical specialties
+49,C91,Cleft lip and palate surgery,Surgical specialties
+50,CA,Paediatric surgery,Surgical specialties
+51,CB,Urology,Surgical specialties
+52,CC,Intensive care medicine,Intensive care medicine
+53,D1,Community dental practice,All dental specialties
+54,D2,General dental practice,All dental specialties
+55,D3,Oral surgery,All dental specialties
+56,D4,Oral medicine,All dental specialties
+57,D5,Orthodontics,All dental specialties
+58,D6,Restorative dentistry,All dental specialties
+59,D61,Restorative dentistry - endodontics,All dental specialties
+60,D62,Restorative dentistry - periodontics,All dental specialties
+61,D63,Restorative dentistry - prosthodontics,All dental specialties
+62,D7,Dental public health,All dental specialties
+63,D8,Paediatric dentistry,All dental specialties
+64,D9,Oral pathology,All dental specialties
+65,DA,Oral microbiology,All dental specialties
+66,DB,Dental and maxillofacial radiology,All dental specialties
+67,DC,Surgical dentistry,All dental specialties
+68,DD,Fixed and removable prosthodontics,All dental specialties
+69,DE,Special care dentistry,All dental specialties
+70,E1,General practice,General practice
+71,E11,GP obstetrics,Obstetrics and gynaecology
+72,E12,GP other than obstetrics,Obstetrics and gynaecology
+73,F1,Obstetrics and gynaecology,Obstetrics and gynaecology
+74,F1A,Well woman service,Obstetrics and gynaecology
+75,F1B,Family planning service,NA
+76,F2,Gynaecology,Obstetrics and gynaecology
+77,F3,Obstetrics,Obstetrics and gynaecology
+78,F31,Obstetrics ante-Natal,Obstetrics and gynaecology
+79,F32,Obstetrics post-Natal,Obstetrics and gynaecology
+80,F4,Community sexual and reproductive health,Community sexual and reproductive health
+81,G1,General psychiatry (Mental Illness),Psychiatric specialties
+82,G1A,Community psychiatry,Psychiatric specialties
+83,G2,Child and adolescent psychiatry,Psychiatric specialties
+84,G21,Child psychiatry,Psychiatric specialties
+85,G22,Adolescent psychiatry,Psychiatric specialties
+86,G3,Forensic psychiatry,Psychiatric specialties
+87,G4,Psychiatry of old age,Psychiatric specialties
+88,G5,Learning disability,Psychiatric specialties
+89,G6,Psychotherapy,Psychiatric specialties
+90,G61,Behavioural psychotherapy,Psychiatric specialties
+91,G62,Child and adolescent psychotherapy,Psychiatric specialties
+92,G63,Adult psychotherapy,Psychiatric specialties
+93,H1,Clinical radiology,Clinical laboratory specialties
+94,H1A,Breast screening service,Clinical laboratory specialties
+95,H2,Clinical oncology,Medical specialties
+96,J1,Histopathology,Clinical laboratory specialties
+97,J2,Blood transfusion,NA
+98,J3,Chemical pathology,Clinical laboratory specialties
+99,J4,Haematology,Clinical laboratory specialties
+100,J5,Immunology,Clinical laboratory specialties
+101,J6,Medical microbiology and virology,Clinical laboratory specialties
+102,J61,Microbiology,Clinical laboratory specialties
+103,J62,Virology,Clinical laboratory specialties
+104,J7,Diagnostic neuropathology,Clinical laboratory specialties
+105,J8,Forensic histopathology,NA
+106,J9,Paediatric and perinatal Pathology,Paediatrics specialties
+107,R1,Chiropody/podiatry,NA
+108,R11,Surgical podiatry,Psychiatric specialties
+109,R2,Clinical psychology,psychology
+110,R3,Dietetics,Medical specialties
+111,R4,Occupational therapy,Occupational medicine
+112,R41,Industrial therapists,Occupational medicine
+113,R5,Physiotherapy,NA
+114,R6,Speech and language therapy,Speech and language therapy
+115,R7,Ambulancemen/women - Accident and Emergency,Emergency medicine
+116,R8,Audiological science,Medical specialties
+117,R81,Hearing aids,Medical specialties
+118,R82,Audiometry,Medical specialties
+119,R9,Medical physics,Medical specialties
+120,RA,Pharmacy,NA
+121,RB,Physiology,NA
+122,RC,Dental hygiene,All dental specialties
+123,RD,Dental surgery assistance,All dental specialties
+124,RE,Physiological measurement,NA
+125,RF,Prosthetics/orthotics,NA
+126,RF1,Prosthetics,NA
+127,RF2,Orthotics,NA
+128,RG,Dispensing optometry,NA
+129,RH,Optometry,Medical specialties
+130,RJ,Orthoptics,Orthoptics
+131,RK,Diagnostic radiography,Clinical laboratory specialties
+132,RK1,Electroencephalography,Clinical laboratory specialties
+133,RK2,Electrocardiography,Clinical laboratory specialties
+134,RK3,Ultrasonics,Clinical laboratory specialties
+135,RK4,Nuclear medicine,Medical specialties
+136,RL,Therapeutic radiography,NA
+137,RM,Medical photography,NA
+138,RP,Paramedics,NA
+139,RS,Dental therapy,All dental specialties
+140,RT,Pharmaceutical medicine,NA
+141,RU,Arts therapies,NA
+142,RU1,Art therapy,NA
+143,RU2,Drama therapy,NA
+144,RU3,Music therapy,NA
+145,RU4,Dance therapy,NA
+146,RU5,Mistletoe therapy,NA
+147,RU6,Acupuncture,NA
+148,RU7,Bowen therapy,NA
+149,RU8,Counselling,NA
+150,T1,General nursing,NA
+151,T11,School nursing,NA
+152,T2,Midwifery,NA
+153,T21,Community midwifery,NA
+154,T3,Mental health nursing,NA
+155,T31,Community psychiatric nursing,NA
+156,T4,Learning disability nursing,NA
+157,T41,Community learning disability nursing,NA
+158,T5,Community nursing (district nursing),NA
+159,T6,Health visiting,NA
+160,T7,Sick children's nursing,NA
+161,T8,Nursery nursing,NA
+162,Z9,All specialties/topic specific,All specialties
